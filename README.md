@@ -8,6 +8,7 @@ adaptive playbacks. Unlike the MediaPlayer API, ExoPlayer is easy to customize
 and extend, and can be updated through Play Store application updates.
 
 
+
 ## Documentation ##
 
 * The [developer guide][] provides a wealth of information.
